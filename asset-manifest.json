@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theme-switcher-tailwind/static/css/main.4346eca0.css",
+    "main.js": "/theme-switcher-tailwind/static/js/main.6f10b76a.js",
+    "static/js/787.ff145256.chunk.js": "/theme-switcher-tailwind/static/js/787.ff145256.chunk.js",
+    "index.html": "/theme-switcher-tailwind/index.html",
+    "main.4346eca0.css.map": "/theme-switcher-tailwind/static/css/main.4346eca0.css.map",
+    "main.6f10b76a.js.map": "/theme-switcher-tailwind/static/js/main.6f10b76a.js.map",
+    "787.ff145256.chunk.js.map": "/theme-switcher-tailwind/static/js/787.ff145256.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4346eca0.css",
+    "static/js/main.6f10b76a.js"
+  ]
+}
