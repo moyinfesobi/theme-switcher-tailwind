@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 import NavigationTab from "./Navigation/NavigationTab";
 import First from "../src/images/first.svg";

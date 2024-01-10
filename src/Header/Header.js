@@ -1,4 +1,3 @@
-import ReactIcon from 'react';
 import PersonIcon from "../images/person.svg";
 import NotifsIcon from "../images/notif.svg";
 
